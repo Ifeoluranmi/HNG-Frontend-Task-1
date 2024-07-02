@@ -52,6 +52,6 @@ ol li {
     display: inline;
 }
 
-.featured-sites a {
+.featured-sites, a {
     text-decoration: none;
 }

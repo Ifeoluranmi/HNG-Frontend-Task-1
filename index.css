@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+   
+}
+
+.profile {
+    background-color: azure;
+}
+
+#img {
+    border-radius: 200px;
+    overflow: auto;
+}
+
+.slackProfilePicture {
+    margin: 20px 10px auto;
+    max-width: 100%;
+}
+
+fieldset {
+    width: 40%;
+    margin: auto;
+}
+
+
+#daytime {
+    background-color: rgb(252, 246, 239);
+    margin: 0%;
+    font-size: 20px;
+}
+
+.goals p {
+    margin: 0 20%;
+}
+
+#intentions {
+    padding: 1.5%;
+}
+
+.skillsets {
+    margin: 2%;
+}
+
+.list {
+    margin-bottom: 0px;
+}
+
+ol li {
+    margin: 0px 1%;
+    display: inline;
+}
